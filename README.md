@@ -1,0 +1,1 @@
+An color schema for Sublime Text 2.
