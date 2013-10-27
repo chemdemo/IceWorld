@@ -12,3 +12,11 @@ Then checkout the themes from github:
 `git clone https://github.com/chemdemo/IceWorld.git`
 
 Now simply use the `Color Schemes` option of your preferences menu to switch between themes, or open `Preferences -> user` and set `color_scheme` item value as `Packages/IceWorld/Dark.tmTheme`, enjoy it!
+
+## The themes.
+
+The editor used in the screenshots is [Sublime Text 2](http://www.sublimetext.com/) with the font Consolas.
+
+### Night Mode(on windows 7).
+
+![Night](https://raw.github.com/chemdemo/IceWorld/master/screenshots/night.jpg)
