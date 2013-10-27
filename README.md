@@ -4,7 +4,7 @@ An **ice-color-style** color schema for Sublime Text 2.
 
 ### Sublime Text 2
 
-1. Install "IceWorld" from [Package Control](http://wbond.net/sublime_packages/package_control).
+1. Install "IceWorld" from [Package Control](http://wbond.net/sublime_packages/package_control)(waiting for merge).
 
 2. Manual installation:
 
