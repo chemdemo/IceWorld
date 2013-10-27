@@ -4,6 +4,10 @@ An **ice-color-style** color schema for Sublime Text 2.
 
 ### Sublime Text 2
 
+1. Install "IceWorld" from [Package Control](http://wbond.net/sublime_packages/package_control).
+
+2. Manual installation:
+
 First find your Sublime Text 2 packages directory, you can find this by using the `Preferences -> Browse Packages` menu from within Sublime Text 2.
 
 Then checkout the themes from github:
@@ -11,7 +15,7 @@ Then checkout the themes from github:
 
 Now simply use the `Color Schemes` option of your preferences menu to switch between themes, or open `Preferences -> user` and set `color_scheme` item value as `Packages/IceWorld/Dark.tmTheme`, enjoy it!
 
-## The themes.
+## The themes screenshots:
 
 The editor used in the screenshots is [Sublime Text 2](http://www.sublimetext.com/) on windows 7 with the font [Consolas](http://www.microsoft.com/typography/fonts/family.aspx?FID=300).
 
