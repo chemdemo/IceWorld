@@ -1,4 +1,4 @@
-An color schema for Sublime Text 2.
+An **ice-color-style** color schema for Sublime Text 2.
 
 ## Installation
 
@@ -22,3 +22,7 @@ The editor used in the screenshots is [Sublime Text 2](http://www.sublimetext.co
 ### Dark Mode.
 
 ![Dark](https://raw.github.com/chemdemo/IceWorld/master/screenshots/dark.jpg)
+
+## Thanks!
+
+Welcome to fork and use!
