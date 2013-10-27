@@ -25,4 +25,4 @@ The editor used in the screenshots is [Sublime Text 2](http://www.sublimetext.co
 
 ## Thanks!
 
-Welcome to fork and use!
+I hope you like it.
