@@ -1,7 +1,5 @@
 An color schema for Sublime Text 2.
 
-This proj is based on [colour-schemes](https://github.com/daylerees/colour-schemes).
-
 ## Installation
 
 ### Sublime Text 2
@@ -15,8 +13,12 @@ Now simply use the `Color Schemes` option of your preferences menu to switch bet
 
 ## The themes.
 
-The editor used in the screenshots is [Sublime Text 2](http://www.sublimetext.com/) with the font Consolas.
+The editor used in the screenshots is [Sublime Text 2](http://www.sublimetext.com/) on windows 7 with the font [Consolas](http://www.microsoft.com/typography/fonts/family.aspx?FID=300).
 
-### Night Mode(on windows 7).
+### Night Mode.
 
 ![Night](https://raw.github.com/chemdemo/IceWorld/master/screenshots/night.jpg)
+
+### Dark Mode.
+
+![Dark](https://raw.github.com/chemdemo/IceWorld/master/screenshots/dark.jpg)
