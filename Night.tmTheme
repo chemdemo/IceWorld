@@ -4,7 +4,7 @@
 ======================================================================
 IcsWorld - Dark
 ======================================================================
-A Sublime Text 2
+A Sublime Text 2.
 Copyright (c) 2013 Demo Yang.
 Released under the MIT License <http://opensource.org/licenses/MIT>
 ======================================================================
@@ -14,30 +14,30 @@ Find more themes at : https://github.com/chemdemo/IceWorld
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>IceWorld - Dark</string>
+	<string>IceWorld - Night</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#FFFFFF</string>
+				<string>#292D30</string>
 				<key>caret</key>
-				<string>#615649</string>
+				<string>#E4FDFF</string>
 				<key>foreground</key>
-				<string>#414f5c</string>
+				<string>#F8F8F2</string>
 				<key>invisibles</key>
 				<string>#3B3A32</string>
 				<key>lineHighlight</key>
-				<string>#f2f6f6</string>
+				<string>#2F353A</string>
 				<key>selection</key>
-				<string>#a9dae5</string>
+				<string>#424C57</string>
 				<key>findHighlight</key>
-				<string>#FFE792</string>
+				<string>#FF005C</string>
 				<key>findHighlightForeground</key>
-				<string>#000000</string>
+				<string>#EEE</string>
 				<key>selectionBorder</key>
-				<string>#88c7d4</string>
+				<string>#424C57</string>
 				<key>activeGuide</key>
 				<string>#9D550FB0</string>
 
@@ -63,7 +63,7 @@ Find more themes at : https://github.com/chemdemo/IceWorld
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#b8b6b1</string>
+				<string>#556270</string>
 			</dict>
 		</dict>
 		<dict>
@@ -74,7 +74,7 @@ Find more themes at : https://github.com/chemdemo/IceWorld
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#15b8ae</string>
+				<string>#FFF2BE</string>
 			</dict>
 		</dict>
 		<dict>
@@ -85,7 +85,7 @@ Find more themes at : https://github.com/chemdemo/IceWorld
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#15b8ae</string>
+				<string>#FF0</string>
 			</dict>
 		</dict>
 
@@ -97,7 +97,7 @@ Find more themes at : https://github.com/chemdemo/IceWorld
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#019d76</string>
+				<string>#AE81FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -108,7 +108,7 @@ Find more themes at : https://github.com/chemdemo/IceWorld
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#019d76</string>
+				<string>#8FBE00</string>
 			</dict>
 		</dict>
 		<dict>
@@ -130,7 +130,7 @@ Find more themes at : https://github.com/chemdemo/IceWorld
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#017c9d</string>
+				<string>#FF2D79</string>
 			</dict>
 		</dict>
 		<dict>
@@ -143,7 +143,7 @@ Find more themes at : https://github.com/chemdemo/IceWorld
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#019d76</string>
+				<string>#00A8C6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -156,7 +156,7 @@ Find more themes at : https://github.com/chemdemo/IceWorld
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#017c9d</string>
+				<string>#0AA8C6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -169,7 +169,7 @@ Find more themes at : https://github.com/chemdemo/IceWorld
 				<key>fontStyle</key>
 				<string>underline</string>
 				<key>foreground</key>
-				<string>#019d76</string>
+				<string>#A6E22E</string>
 			</dict>
 		</dict>
 		<dict>
@@ -182,7 +182,7 @@ Find more themes at : https://github.com/chemdemo/IceWorld
 				<key>fontStyle</key>
 				<string>italic underline</string>
 				<key>foreground</key>
-				<string>#019d76</string>
+				<string>#AEE239</string>
 			</dict>
 		</dict>
 		<dict>
@@ -195,7 +195,7 @@ Find more themes at : https://github.com/chemdemo/IceWorld
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#019d76</string>
+				<string>#AEE239</string>
 			</dict>
 		</dict>
 		<dict>
@@ -208,7 +208,7 @@ Find more themes at : https://github.com/chemdemo/IceWorld
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#019d76</string>
+				<string>#FD971F</string>
 			</dict>
 		</dict>
 		<dict>
@@ -221,7 +221,7 @@ Find more themes at : https://github.com/chemdemo/IceWorld
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#019d76</string>
+				<string>#04B4D6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -234,7 +234,7 @@ Find more themes at : https://github.com/chemdemo/IceWorld
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#017c9d</string>
+				<string>#4ECDC4</string>
 			</dict>
 		</dict>
 		<dict>
@@ -247,7 +247,7 @@ Find more themes at : https://github.com/chemdemo/IceWorld
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#019d76</string>
+				<string>#4ECDC4</string>
 			</dict>
 		</dict>
 		<dict>
@@ -260,7 +260,7 @@ Find more themes at : https://github.com/chemdemo/IceWorld
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#019d76</string>
+				<string>#4ECDC4</string>
 			</dict>
 		</dict>
 		<dict>
@@ -273,7 +273,7 @@ Find more themes at : https://github.com/chemdemo/IceWorld
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#019d76</string>
+				<string>#4ECDC4</string>
 			</dict>
 		</dict>
 		<dict>
@@ -323,7 +323,7 @@ Find more themes at : https://github.com/chemdemo/IceWorld
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#666</string>
+				<string>#CFCFC2</string>
 			</dict>
 		</dict>
 
@@ -393,6 +393,6 @@ Find more themes at : https://github.com/chemdemo/IceWorld
 
 	</array>
 	<key>uuid</key>
-	<string>12632AED-5F4D-40DE-ACBD-F49C7B98C153</string>
+	<string>09D1BE89-328E-4197-8CAE-1772B6C61DF9</string>
 </dict>
 </plist>
