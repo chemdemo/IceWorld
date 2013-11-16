@@ -2,31 +2,44 @@ An **ice-color-style** color schema for Sublime Text 2.
 
 ## Installation
 
-### Sublime Text 2
+### With [Package Control](http://wbond.net/sublime_packages/package_control)
 
-1. Install "IceWorld" from [Package Control](http://wbond.net/sublime_packages/package_control)(waiting for merge).
+1. Run Package Control in Sublime
 
-2. Manual installation:
+2. Search for 'IceWorld' & install
 
-First find your Sublime Text 2 packages directory, you can find this by using the `Preferences -> Browse Packages` menu from within Sublime Text 2.
+3. Go to Preferences > Color Schemes > IceWorld Color Scheme
 
-Then checkout the themes from github:
-`git clone https://github.com/chemdemo/IceWorld.git`
+### Manual installation
 
-Now simply use the `Color Schemes` option of your preferences menu to switch between themes, or open `Preferences -> user` and set `color_scheme` item value as `Packages/IceWorld/Dark.tmTheme`, enjoy it!
+1. Checkout the proj from github:
 
-## The themes screenshots:
+`git clone https://github.com/chemdemo/IceWorld.git`.
+
+2. Remove all files or folder other than `Dark.tmTheme` and 'Night.tmTheme' files.
+
+3. Move the `IceWorld` folder to Sublime Text 2 Packages folder and rename to `IceWorld Color Scheme`.  
+
+For example, you can use the `mv` command like this if you are using Mac OSX:
+
+`mv Iceworld ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/Iceworld\ Color\ Scheme`
+
+4. Go to Preferences > Color Schemes > IceWorld Color Scheme
+
+5. Enjoy it!
+
+## Theme screenshots(Comes with two different colors):
 
 The editor used in the screenshots is [Sublime Text 2](http://www.sublimetext.com/) on windows 7 with the font [Consolas](http://www.microsoft.com/typography/fonts/family.aspx?FID=300).
 
-### Night Mode.
+### :start: Night
 
 ![Night](https://raw.github.com/chemdemo/IceWorld/master/screenshots/night.jpg)
 
-### Dark Mode.
+### :start: Dark
 
 ![Dark](https://raw.github.com/chemdemo/IceWorld/master/screenshots/dark.jpg)
 
 ## Thanks!
 
-I hope you like it.
+Hope you like it.
