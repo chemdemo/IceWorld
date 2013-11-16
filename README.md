@@ -34,11 +34,11 @@ The editor used in the screenshots is [Sublime Text 2](http://www.sublimetext.co
 
 ### :start: Night
 
-![Night](https://raw.github.com/chemdemo/IceWorld/master/screenshots/night.jpg)
+![Night](https://raw.github.com/chemdemo/IceWorld/master/screenshots/night.png)
 
 ### :start: Dark
 
-![Dark](https://raw.github.com/chemdemo/IceWorld/master/screenshots/dark.jpg)
+![Dark](https://raw.github.com/chemdemo/IceWorld/master/screenshots/dark.png)
 
 ## Thanks!
 
