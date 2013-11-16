@@ -12,17 +12,13 @@ An **ice-color-style** color schema for Sublime Text 2.
 
 ### Manual installation
 
-1. Checkout the proj from github:
-
-  `git clone https://github.com/chemdemo/IceWorld.git`.
+1. Checkout the proj from github: `git clone https://github.com/chemdemo/IceWorld.git`.
 
 2. Remove all files or folder other than `Dark.tmTheme` and 'Night.tmTheme' files.
 
 3. Move the `IceWorld` folder to Sublime Text 2 Packages folder and rename to `IceWorld Color Scheme`.
 
-  For example, you can use the `mv` command like this if you are using Mac OSX:
-
-  `mv Iceworld ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/Iceworld\ Color\ Scheme`
+  For example, you can use the `mv` command like this if you are using Mac OSX: `mv Iceworld ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/Iceworld\ Color\ Scheme`
 
 4. Go to Preferences > Color Schemes > IceWorld Color Scheme
 
