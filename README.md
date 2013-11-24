@@ -1,4 +1,4 @@
-An **ice-color-style** color schema for Sublime Text 2.
+An **ice-color-style** color scheme for Sublime Text 2.
 
 ## Installation
 
