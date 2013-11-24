@@ -26,7 +26,7 @@ An **ice-color-style** color schema for Sublime Text 2.
 
 ## Theme screenshots:
 
-The editor used in the screenshots is [Sublime Text 2](http://www.sublimetext.com/) on Mac OSX with the font [Consolas](http://www.microsoft.com/typography/fonts/family.aspx?FID=300).
+The editor used in the screenshots is [Sublime Text 2](http://www.sublimetext.com/) on Mac OSX with the font [Source Code Pro](https://github.com/adobe/source-code-pro).
 
 Comes with two different colors: 
 
