@@ -14,7 +14,7 @@ An **ice-color-style** color scheme for Sublime Text 2.
 
 1. Checkout the proj from github: `git clone https://github.com/chemdemo/IceWorld.git`.
 
-2. Remove all files or folder other than `Dark.tmTheme` and 'Night.tmTheme' files.
+2. Remove all files or folder other than `Dark.tmTheme` and 'Light.tmTheme' files.
 
 3. Move the `IceWorld` folder to Sublime Text 2 Packages folder and rename to `IceWorld Color Scheme`.
 
@@ -28,11 +28,11 @@ An **ice-color-style** color scheme for Sublime Text 2.
 
 The editor used in the screenshots is [Sublime Text 2](http://www.sublimetext.com/) on Mac OSX with the font [Source Code Pro](https://github.com/adobe/source-code-pro).
 
-Comes with two different colors: 
+Comes with two different colors:
 
-### :start: Night
+### :start: Light
 
-![Night](https://raw.github.com/chemdemo/IceWorld/master/screenshots/night.png)
+![Light](https://raw.github.com/chemdemo/IceWorld/master/screenshots/light.png)
 
 ### :start: Dark
 
