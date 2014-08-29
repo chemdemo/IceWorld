@@ -29,9 +29,9 @@ Find more themes at : https://github.com/chemdemo/IceWorld
 				<key>invisibles</key>
 				<string>#3B3A32</string>
 				<key>lineHighlight</key>
-				<string>#2F353A</string>
+				<string>#343E4E</string>
 				<key>selection</key>
-				<string>#424C57</string>
+				<string>#45546E</string>
 				<key>findHighlight</key>
 				<string>#FF005C</string>
 				<key>findHighlightForeground</key>
